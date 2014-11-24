@@ -1,0 +1,9 @@
+C:\Projects\TFSInator\TFSInator\bin\Debug\TFSInator.exe.config
+C:\Projects\TFSInator\TFSInator\bin\Debug\TFSInator.exe
+C:\Projects\TFSInator\TFSInator\bin\Debug\TFSInator.pdb
+C:\Projects\TFSInator\TFSInator\obj\Debug\TFSInator.AboutBox.resources
+C:\Projects\TFSInator\TFSInator\obj\Debug\TFSInator.Properties.Resources.resources
+C:\Projects\TFSInator\TFSInator\obj\Debug\TFSInator.csproj.GenerateResource.Cache
+C:\Projects\TFSInator\TFSInator\obj\Debug\TFSInator.exe
+C:\Projects\TFSInator\TFSInator\obj\Debug\TFSInator.pdb
+C:\Projects\TFSInator\TFSInator\obj\Debug\TFSInator.csprojResolveAssemblyReference.cache
